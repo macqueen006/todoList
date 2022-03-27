@@ -105,6 +105,7 @@ ul {
 }
 
 .settings .task-menu {
+    position: absolute;
     padding: 5px 0;
     z-index: 1;
     top: 20px;
